@@ -5,8 +5,10 @@ Este link permite ver los notebook (jupiter/colab) como presentación, especialm
 
 https://mybinder.org/v2/gh/jbekios/UAI-1-2021.git/HEAD
 
+Para ver la presentación tienen que entrar al notebook y presionar el botón indicado en la figura:
+
 <center>
-    <img src='RISE.png'style="width: 200px;">
+    <img src='RISE.png'style="width: 150px;">
 </center>
 
 Listado de sesiones:
